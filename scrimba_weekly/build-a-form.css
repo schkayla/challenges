@@ -1,0 +1,48 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Exo', sans-serif;
+}
+
+form {
+    margin: 0 auto;
+    width: 80vw;
+    height: 100vh;
+    background: linear-gradient(135deg, #FF53CE, #8DF089);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+input, button {
+    padding: 1em;
+    margin: 5px 0;
+    border-radius: 30px;
+    border: none;
+    text-align: center;
+    min-width: 200px;
+}
+
+button {
+    background: #A34D8B;
+    color: #fff;
+}
+
+button:hover, button:active {
+    background: #793967;
+    transform: rotate(4deg);
+    cursor: pointer;
+}
+
+@media only screen and (min-width: 900px) {
+
+    form {
+        flex-direction: row;
+    }
+
+    form input, button {
+        margin: 0 1em;
+    }
+}
