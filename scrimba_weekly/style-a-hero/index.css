@@ -27,7 +27,7 @@
     content: "";
     background-size: cover; 
     background-position: center;
-    background-image: url('hero_images/photographer.jpg');  
+    background-image: url('/photographer.jpg');  
     position: absolute;
     top: 0px;
     right: 0px;
