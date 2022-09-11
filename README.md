@@ -1,7 +1,8 @@
 # challenges
 
-These are challenges I've completed from web dev learning sites. 
+These are challenges I've completed from web dev tutorials. 
 
 Featuring:
-  - Scrimba.com - Weekly Web Dev Challenge
+  - scrimba.com - Weekly Web Dev Challenge
+  - kevinpowell.co - Responsive Layouts
 
