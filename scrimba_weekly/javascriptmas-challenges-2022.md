@@ -7,3 +7,7 @@ Links for JavaScriptmas Challenges 2022
 [Favorite Foods](https://scrimba.com/scrim/cof98437393506998e4e38843)
 
 [Shh... Wispering Function](https://scrimba.com/scrim/cocf141d995e0bcf2d21cbcfe)
+
+[Candy Sale](https://scrimba.com/scrim/co13e4fa28b800ee7f95088ff)
+
+[Taco Tray](https://scrimba.com/scrim/co6da47bebd29aef70d04a989)
