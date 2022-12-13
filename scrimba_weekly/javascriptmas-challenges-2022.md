@@ -14,4 +14,9 @@ Links for JavaScriptmas Challenges 2022
 
 - [Alternating Caps](https://scrimba.com/scrim/coadd4267a55f297f9253f05d)
 
+- [Valid Time](https://scrimba.com/scrim/coc434022bcd759ea866c32e2)
+
 - [toTitleCase()](https://scrimba.com/scrim/co493452fb6b4f457d2ef67b4)
+
+- [Sort by Length](https://scrimba.com/scrim/co0244be4a3269d1ab7059b8e)
+
