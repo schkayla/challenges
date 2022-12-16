@@ -23,3 +23,6 @@ Links for JavaScriptmas Challenges 2022
 11 [Decode an Alien Message](https://scrimba.com/scrim/cof48483cbece228b0065b6fa)
 
 12 [Breakfast Menu](https://scrimba.com/scrim/co5c1456ebe494ba6cae4bdac)
+
+13 [Emojify!](https://scrimba.com/scrim/co54e4839be8feee1478fa57c)
+
