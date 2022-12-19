@@ -26,3 +26,6 @@ Links for JavaScriptmas Challenges 2022
 
 13 [Emojify!](https://scrimba.com/scrim/co54e4839be8feee1478fa57c)
 
+14 [Count Vowel Consonant](https://scrimba.com/scrim/cob8c41a89956dfe681dab127)
+
+15 [Palindromes](https://scrimba.com/scrim/co5d04ba5b5bd0163038bdc1f)
