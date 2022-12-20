@@ -29,3 +29,7 @@ Links for JavaScriptmas Challenges 2022
 14 [Count Vowel Consonant](https://scrimba.com/scrim/cob8c41a89956dfe681dab127)
 
 15 [Palindromes](https://scrimba.com/scrim/co5d04ba5b5bd0163038bdc1f)
+
+16 [Insert Dashes](https://scrimba.com/scrim/co7024d8fa381440555e8b00f)
+
+17 [Pumpkin's Prizes](https://scrimba.com/scrim/cofb04821b716af9744a8141d)
