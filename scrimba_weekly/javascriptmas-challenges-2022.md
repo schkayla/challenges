@@ -33,3 +33,6 @@ Links for JavaScriptmas Challenges 2022
 16 [Insert Dashes](https://scrimba.com/scrim/co7024d8fa381440555e8b00f)
 
 17 [Pumpkin's Prizes](https://scrimba.com/scrim/cofb04821b716af9744a8141d)
+
+18 [Candies](https://scrimba.com/scrim/coc284dffa5a23c5e4dac5dbc)
+
