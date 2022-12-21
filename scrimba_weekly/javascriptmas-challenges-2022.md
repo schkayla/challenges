@@ -36,3 +36,7 @@ Links for JavaScriptmas Challenges 2022
 
 18 [Candies](https://scrimba.com/scrim/coc284dffa5a23c5e4dac5dbc)
 
+19 [Century From Year](https://scrimba.com/scrim/co2d140c1b9d766eb4f68004e)
+
+20 [Find Free Podcasts](https://scrimba.com/scrim/coe1a412791d68fdd40ad9165)
+
