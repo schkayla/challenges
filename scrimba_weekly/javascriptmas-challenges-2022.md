@@ -40,3 +40,7 @@ Links for JavaScriptmas Challenges 2022
 
 20 [Find Free Podcasts](https://scrimba.com/scrim/coe1a412791d68fdd40ad9165)
 
+21 [Definitely Not Fizzbuzz](https://scrimba.com/scrim/cod2a479eaa2a1a5bd6441ec5)
+
+22 [Ready Tables](https://scrimba.com/scrim/co3e84e439915efd05db1bd81)
+
