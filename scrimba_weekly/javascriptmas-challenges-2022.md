@@ -44,3 +44,6 @@ Links for JavaScriptmas Challenges 2022
 
 22 [Ready Tables](https://scrimba.com/scrim/co3e84e439915efd05db1bd81)
 
+23 [Holiday Gift Shopping](https://scrimba.com/scrim/coa9f4badad6894ff960c0a41)
+
+24 [Christmas Jukebox](https://scrimba.com/scrim/co33b402da5d71cdd9e92e812)
